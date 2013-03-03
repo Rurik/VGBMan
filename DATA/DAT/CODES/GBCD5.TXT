@@ -1,0 +1,335 @@
+All-Star Challenge 2(tm) Game
+095-FB9-7FA + 093-3DD-7FA + 095-C49-7FA Shot clock for
+human player is 9 sec.--1-on-1
+game
+006-5E9-E6E     Infinite time
+111-1FD-E66 + 111-18D-E6D       Computer's 3-pt. shots worth
+17 points
+191-1FD-E66     Computer's 3-pt. shots worth
+25 points
+36E-F7D-191 + 096-F8D-F7A       Computer makes almost all
+shots
+341-15D-3B2 + 001-16D-E6D       Computer can't score against
+you
+All-Star Challenge 2 is a trademark of LJN, Ltd.
+
+Boggle Plus(tm) Game
+005-AFD-E6E     Infinite time
+016-BCD-E66     1-minute game
+056-BCD-E66     5-minute game
+096-BCD-E66     9-minute game
+D48-82A-E61     Can re-use shaded letters
+30E-A9A-4CA     Can select any letter on the
+board--letters don't have to be
+next to each other
+Codes for ÒBoggle(tm)Ó game option:
+*=Words under 3 letters allowed but won't be recognized by
+dictionary. Press ÒAÓ at end of game to accept 1- or 2- letter words
+01B-4CA-E66     *1- and 2-letter words
+allowed
+04B-4CA-E66     Min. word length 4 letters
+Codes for the ÒBig Boggle(tm)Ó game option:
+01B-8FA-F7A     *1- to 3-letter words allowed
+05B-8FA-F7A     Min. word length 5 letters
+Boggle Plus, Boggle and Big Boggle are trademarks of Parker
+Brothers.
+
+Daedalian Opus(tm) Game
+3E1-9AF-191 + 0A1-9BF-7FA       Get password to select any
+level after completing level 1
+3E1-9CF-2AA + 051-9DF-F7E       Start on level 5 or 6 after
+completing level 1
+00D-62D-3BA     Infinite time
+Daedalian Opus is a trademark Vic Tokai Inc.
+
+Disney's Darkwing Duck(tm) Game
+01A-0BF-C4D     Infinite lives
+011-84F-F7A     Start with 1 pt. of energy and 1
+life--1st game
+051-84F-F7A     Start with 5 pts. of energy on
+1st life and 5 lives--1st game
+091-84F-F7A     Start with 9 pts. of energy on
+1st life and 9 lives--1st game
+019-F0F-F7A     Start with 1 pt. of energy after
+1st life
+059-F0F-F7A     Start with 5 pts. of energy
+after 1st life
+099-F0F-F7A     Start with 9 pts. of energy
+after 1st life
+FAD-398-4C1     Infinite ammo on pick-up
+010-6FB-A2B     1 touch by an enemy kills you
+AA0-64B-A2B     Invincibility time lasts 4 sec.
+FF0-64B-A2B     Invincibility time lasts 6 sec.
+Disney's Darkwing Duck is a trademark of Disney.
+
+F-15 Strike Eagle(tm) Game
+0A3-88C-912     Start with 10 sidewinders
+323-88C-912     Start with 50 sidewinders
+5A3-88C-912     Start with 90 sidewinders
+0A3-8DC-D56     Start with 10 mavericks
+323-8DC-D56     Start with 50 mavericks
+5A3-8DC-D56     Start with 90 mavericks
+0A3-92C-80A     Start with 10 E.C.M.
+323-92C-80A     Start with 50 E.C.M.
+5A3-92C-80A     Start with 90 E.C.M.
+023-9BC-E66 + 013-9AC-6EA       Start with 513 bullets
+083-9BC-E66 + 013-9AC-6EA       Start with 2049 bullets
+103-9BC-E66 + 013-9AC-6EA       Start with 4097 bullets
+FAA-52D-4C1     Infinite bullets
+FA8-EEF-4C1     Infinite sidewinders
+FA8-ABF-4C1     Infinite mavericks
+013-BCC-E62     Fly very slowly
+093-BCC-E62     Fly at supersonic speed
+FA8-5BF-4C1     Infinite E.C.M.
+F-15 Strike Eagle is a trademark of MicroProse Software Inc.
+
+Final Fantasy Legend III(tm) Game
+FFA-928-E6A + FF8-918-2A2 + FF8-938-2A2 Set initial power
+to mega-power
+Final Fantasy Legend III is a trademark of Square Co., Ltd.
+
+High Stakes(tm) Game
+00C-ADB-3BE + 006-6BA-3BE       Once you've collected an item
+from Shady(tm), can't lose it--
+blackjack mission 1 only
+00B-B1E-A22     Betting and cheat tokens cost 0
+*=Beginning display shows $50,000
+628-D8F-E65     *Start with 1/2 money
+FF8-D8F-E65     *Start with over $65,000
+3E0-BOB-081 + 000-B2B-E61       No limit to how much you can
+buy of each item from
+Shady(tm)
+High Stakes and Shady are trademarks of Electro Brain Corp.
+
+The Little Mermaid(tm) Game
+018-96F-E66     Start with 1 energy pt.
+058-96F-E66     Start with 5 energy pts.
+088-96F-E66     Start with 8 energy pts.
+C98-22E-3BE     Infinite energy
+017-F1F-E66     Start with 2 lives
+057-F1F-E66     Start with 6 lives
+097-F1F-E66     Start with 10 lives
+00C-79F-3BE     Infinite lives
+018-07F-195     Start on level 2
+028-07F-195     Start on level 3
+038-07F-195     Start on level 4
+048-07F-195     Start on level 5
+058-07F-195     Start on level 6
+068-07F-195     See end-of-game credits
+The Little Mermaid is a trademark of The Walt Disney Company.
+
+Nobunaga's Ambition(tm) Game
+You must be Oda Nobunaga(tm) for these codes to work:
+3EF-9FB-191     Train samurais once and they
+have 100 % skill level
+4B1-5AA-2A2     Start with 75 loyalty pts.
+641-5AA-2A2     Start with 100 loyalty pts.
+321-56A-80E     Start with 50 town value pts.
+4B1-56A-80E     Start with 75 town value pts.
+641-56A-80E     Start with 100 town value pts.
+321-5CA-D56     Start with 50 castle defense
+pts.
+4B1-5CA-D56     Start with 75 castle defense
+pts.
+641-5CA-D56     Start with 100 castle defense
+pts.
+4B1-5BA-2A2     Start with flood control level
+at 75
+641-5BA-2A2     Start with flood control level
+at 100
+0AE-B6B-B3A + 0AE-B9B-E6A       Start with 2580 rice pts.
+03E-B6B-B3A + 03E-B9B-E6A       Start with 788  rice pts.
+01E-B6B-B3A + 01E-B9B-E6A       Start with 276 rice pts.
+0AE-B6B-D56 + 0AE-B7B-E6A       Start with 999 gold
+3E5-7EA-191     Attributes for Oda Nobunaga
+are 100% (will show original
+values, answer no when asked
+if this is OK--then attributes
+will be 100%)
+Nobunaga's Ambition and Oda Nobunaga are trademarks of Koei
+Corporation.
+
+Pugsley's Scavenger Hunt(tm) Game
+012-17F-F7E     Start with 1 life
+0A2-17F-F7E     Start with 10 lives
+AF3-DEE-7F1 + 3C3-DFE-916 + 7D3-E1E-197 When game begins, go
+thru any door, enter secret
+bonus room--switch off to
+leave room
+FAA-DCF-4C1     Lose 1 heart to become
+invincible
+01F-E98-E66     Start each life with 1 energy
+heart
+05F-E98-E66     Start each life with 5 energy
+hearts
+FA4-28F-4C1     Infinite lives
+009-11C-E6D     Infinite hearts
+Pugsley's Scavenger Hunt is a trademark of Paramount Pictures.
+
+Radar Mission(tm) Game
+Game B Codes:
+011-E0D-E66     Start with 1 money bag
+041-E0D-E66     Start with 1 extra money bag
+003-33D-3BE     Infinite money
+003-CCA-3BE     Move in 1 direction only
+00C-C6A-3BE     Destroyed fleet disappears
+from radar screen but game
+doesn't end
+Radar Mission is a trademark of Nintendo of America, Inc
+
+Rescue of Princess Blobette(tm) Game
+02B-CA8-F7E     Start with 2 lives
+04B-CA8-F7E     Start with 4 lives
+08B-CA8-F7E     Start with 8 lives
+000-56D-E6E     Infinite jellybeans
+00D-4FD-3BE     Infinite lives
+02C-0E8-E66     Start with 2 honeys
+04C-0E8-E66     Start with 4 honeys
+08C-0E8-E66     Start with 8 honeys
+02C-0C8-E6A     Start with 2 root beers
+04C-0C8-E6A     Start with 4 root beers
+02C-0A8-F72     Start with 2 tangerines
+04C-0A8-F72     Start with 4 tangerines
+02C-088-F7E     Start with 2 vanillas
+04C-088-F7E     Start with 4 vanillas
+02C-068-E6A     Start with 2 limes
+04C-068-E6A     Start with 4 limes
+02C-048-E6E     Start with 2 apples
+04C-048-E6E     Start with 4 apples
+02C-028-E6A     Start with 2 bananas
+04C-028-E6A     Start with 4 bananas
+02C-008-E6A     Start with 2 colas
+04C-008-E6A     Start with 4 colas
+02B-FE8-E66     Start with 2 coconuts
+04B-FE8-E66     Start with 4 coconuts
+02B-FC8-E6A     Start with 2 strawberries
+04B-FC8-E6A     Start with 4 strawberries
+02B-FA8-E62     Start with 2 licorices
+04B-FA8-E62     Start with 4 licorices
+02C-108-E6E     Start with 2 ketchups
+04C-108-E6E     Start with 4 ketchups
+02C-128-E6A     Start with 2 punches
+04C-128-E6A     Start with 4 punches
+02C-148-E6A     Start with 2 mints
+04C-148-E6A     Start with 4 mints
+The Rescue of Princess Blobette is a trademark of Absolute
+Entertainment Inc.
+
+Rolan's Curse (tm) Game
+025-F5E-F7A     Start with 2 energy pts.
+065-F5E-F7A     Start with 6 energy pts.
+F0C-96C-6E9     Infinite energy
+Rolan's Curse is a trademark of American Sammy Corporation.
+
+Snoopy's Magic Show(tm) Game
+3E7-3FD-4C1 + 027-40D-087 + 007-41D-E65 Start on level 2
+3E7-3FD-4C1 + 057-40D-087 + 007-41D-E65 Start on level 5
+3E7-3FD-4C1 + 097-40D-087 + 007-41D-E65 Start on level 9
+108-49A-E6B     Start with 22 sec.
+3F8-49A-E6B     Start with 63 sec.
+648-49A-E6B     Start with 100 sec.
+Snoopy's Magic Show is a trademark of United Feature Syndicate, Inc.
+
+Speedy Gonzalez(tm) Game
+00A-8A8-E66     Start 1st game with 1 life
+06A-8A8-E66     Start 1st game with 7 lives
+09A-8A8-E66     Start 1st game with 10 lives
+*=After entering code, select password option on title screen, enter
+500999 to begin on zone in code
+024-5A9-F72 + 004-5B9-A28       *Start in Forest Zone
+034-5A9-F72 + 004-5B9-A28       *Start in Desert Zone
+044-5A9-F72 + 004-5B9-A28       *Start in County Zone
+054-5A9-F72 + 004-5B9-A28       *Start in Cheese Island Zone
+FAC-A9B-4C1     Infinite lives
+FA9-40B-4C1     Infinite time
+00D-87B-E66     Start continued games with 1
+life
+06D-87B-E66     Start continued games with 7
+lives
+09D-87B-E66     Start continued games with 10
+lives
+05E-F6C-C4E     Start with 1/2 time
+07E-F6C-C4E     Start with 3/4 time
+Speedy Gonzalez is a trademark of Warner Bros.
+
+Star Trek: The Next Generation(tm) Game
+FA4-27D-4C1     Infinite shields
+001-13D-3BA     Damage isn't repaired
+001-15D-6E7     Damage repaired immediately
+19E-169-7FB     Life support starts at 25%
+power
+32E-169-7FB     Life support starts at 50%
+power
+4BE-169-7FB     Life support starts at 75%
+power
+19E-1A9-7FB     Warp drive starts at 25% power
+32E-1A9-7FB     Warp drive starts at 50% power
+4BE-1A9-7FB     Warp drive starts at 75% power
+19E-1E9-7FB     Impulse drive starts at 25%
+power
+32E-1E9-7FB     Impulse drive starts at 50%
+power
+4BE-1E9-7FB     Impulse drive starts at 75%
+power
+19E-229-7FB     Shields start at 25% power
+32E-229-7FB     Shields start at 50% power
+4BE-229-7FB     Shields start at 75% power
+19E-269-7FB     Phasers(tm) start at 25%
+power
+32E-269-7FB     Phasers start at 50% power
+4BE-269-7FB     Phasers start at 75% power
+19E-2A9-7FB     Photon Torpedoes(tm) start at
+25% power
+32E-2A9-7FB     Photon Torpedoes start at 50%
+power
+4BE-2A9-7FB     Photon Torpedoes start at 75%
+power
+19E-2E9-7FB     Sensors start at 25% power
+32E-2E9-7FB     Sensors start at 50% power
+4BE-2E9-7FB     Sensors start at 75% power
+19E-329-7FB     Transporter starts at 25%
+power
+32E-329-7FB     Transporter starts at 50%
+power
+4BE-329-7FB     Transporter starts at 75%
+power
+Star Trek: The Next Generation, Phasers and Photon Torpedoes are
+trademarks of Paramount Pictures.
+
+Tetris 2(tm) Game
+C98-E9A-081     No next piece screen
+10D-649-F71 + 00D-629-081 + 3ED-639-B30 Blocks come
+down fast
+70D-649-F71 + 00D-629-081 + 3ED-639-B30 Blocks come
+down very fast
+20D-649-F71 + 00D-629-081 + 3ED-639-B30 Blocks come
+down super fast
+00A-4BA-A29     Can select round above 30 on
+options screen
+FA8-CB8-4C1     In versus mode, no blocks added
+to top of screen
+Tetris 2 is a trademark of Elorg.
+
+Titus the Fox(tm) Game
+013-D0A-F7E     Start 1st life with 1 energy
+unit
+093-D0A-F7E     Start 1st life with 9 energy
+units
+011-CFD-F7E     Start with 1 energy unit after
+1st life
+091-CFD-F7E     Start with 9 energy units after
+1st life
+013-D5A-E66     Start with 1 life
+063-D5A-E66     Start with 6 lives
+093-D5A-E66     Start with 9 lives
+009-6A9-3BE     Infinite lives
+00E-7D9-3BE     Infinite energy until level 3
+643-DCA-E6A     Start 1st level with 100-pt.
+bonus
+FA3-DCA-E6A     Start 1st level with 250-pt.
+bonus
+003-BAF-5D4     Start on level 1, part 2
+002-739-3BE     Infinite energy from level 3 on
+Titus the Fox is a trademark of Titus Software Corp.
+
+

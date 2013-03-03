@@ -1,0 +1,120 @@
+Bionic Commando(tm) Game
+FAE-6EB-4C1     Infinite energy
+024-0EE-E66     Start with 2 lives
+044-0EE-E66     Start with 4 lives
+064-0EE-E66     Start with 6 lives
+006-0AE-915     Infinite lives
+004-04E-915     Infinite continues
+024-818-E66     2 continues
+044-818-E66     4 continues
+064-818-E66     6 continues
+845-E0E-5D4     Start with 8 energy
+Bionic Commando is a trademark of Capcom USA.
+
+Fish Dude(tm) Game
+215-25F-081     No timer
+002-3DF-E62     Start with 1 life
+042-3DF-E62     Start with 5 lives
+082-3DF-E62     Start with 9 lives
+0E2-3DF-E62     Start with 15 lives—ignore counter for 1st 5 lives
+002-A8F-3BE     Infinite lives
+Fish Dude is a trademark of SOFEL Corp.
+
+Fist of the North Star(tm) Game
+21E-9FF-4C1     Almost invincible
+21F-A5F-4C1     No energy loss from weapons thrown
+*=Both players
+40F-F7E-195     *Start with 25% energy
+7F4-F7E-195     *Start with 50% energy
+C44-F7E-195     *Start with 75% energy
+05B-CCE-E6E     Start on level 5
+09B-CCE-E6E     Start on level 9
+Fist of the North Star is a trademark of Bronson—Tetsuo
+Hara/Shueisha—Fuji TV—Toei Animation
+
+Godzilla(tm) Game
+00F-09F-E6E     Infinite lives
+005-16D-19E     Infinite energy—spikes can still kill you
+016-E9F-E62     Start with 2 life
+056-E9F-E62     Start with 6 lives
+096-E9F-E62     Start with 10 lives
+088-3BF-A2A     Godzilla loses 1/2 energy on 1st hit
+Godzilla is a trademark of Toho Company, Ltd.
+
+Home Alone(tm) Game
+214-34F-081     No bad guys
+013-ADD-E66     Start with 1 hit pt.
+063-ADD-E66     6 hit pts.
+093-ADD-E66     9 hit pts.—meter shows 6
+00B-5AD-19E     Infinite hit pts.
+013-E5D-7FA     Need 1 treasure to finish level 1
+Home Alone is a trademark of Twentieth Century Fox Film
+Corporation.
+
+Krusty's Fun House(tm) Game
+1       022-43F-E66 + 022-58F-E66       Start with 2 lives
+2       062-43F-E66 + 062-58F-E66       Start with 6 lives
+3       092-43F-E66 + 092-58F-E66       Start with 9 lives
+4       FA3-ACF-4C1     Infinite lives
+5       FA6-EBB-4C1     Infinite pies
+6       022-5DF-C42     Start with 2 pies
+7       072-5DF-C42     Start with 7 pies
+8       0F2-5DF-C42     Start with 15 pies—only shows 10
+Krusty's Fun House is a trademark of Twentieth Century Fox
+Corporation.
+
+The Little Mermaid(tm) Game
+1       018-96F-E66     Start with only 1 heart
+2       058-96F-E66     Start with 5 hearts
+3       088-96F-E66     Start with 8 hearts (only shows 5)
+4       C98-22E-3BE     Infinite energy
+5       007-F1F-E66     Start with 1 life
+6       047-F1F-E66     Start with 5 lives
+7       087-F1F-E66     Start with 9 lives
+8       00C-79F-3BE     Infinite lives
+9       018-07F-195     Start on level 2
+10      028-07F-195     Start on level 3
+11      038-07F-195     Start on level 4
+12      048-07F-195     Start on level 5
+13      058-07F-195     Start on level 6
+14      068-07F-195     See end-of-game credits
+The Little Mermaid is a trademark of The Walt Disney Company.
+
+Missile Command(tm) Game
+002-9AE-19E + 002-4BE-19E + 20F-FDE-D56 Infinite missiles
+FF6-BBD-191     Invincible bases
+*=Start by defending
+02F-28E-E6A     *New York
+04F-28E-E6A     *London
+06F-28E-E6A     *Sydney
+08F-28E-E6A     *Paris
+0AF-28E-E6A     *Moscow
+18F-28E-E6A     *San Francisco
+Missile Command is a trademark of Atari Corporation.
+
+Pinball Dreams(tm) Game
+1       004-BAC-4CA + 004-BBC-B32       Never tilt
+2       3EB-EDF-4C1 + 04B-EEF-4C7 + 00B-EFF-A2D Start with 5x
+bonus, lose it if you collect any other bonus
+3       054-C7D-E62     Collect 2x bonus and get more
+4       018-1BF-E66     Start with 1 ball
+5       048-1BF-E66     Start with 4 balls
+6       078-1BF-E66     Start with 7 balls
+7       098-1BF-E66     Start with 9 balls
+8       008-18F-3BA     Infinite balls
+Pinball Dreams is a trademark of Gametek, Inc.
+
+Spud's Adventure(tm) Game
+013-C8E-E62     Start with 2 life
+053-C8E-E62     Start with 6 lives
+093-C8E-E62     Start with 10 lives
+002-67E-19E     Infinite lives
+007-5FE-5D4     Begin each new screen with a key—except 1st
+screen
+3E1-D1E-2A9 + 011-D2E-915       1 EXP pt. for killing a bad guy
+3E1-D1E-2A9 + 051-D2E-915       5 EXP pts. for killing a bad guy
+3E1-D1E-2A9 + 091-D2E-915       9 EXP pts. for killing a bad guy
+Spud's Adventure is a trademark of Atlus Software Inc.
+
+
+

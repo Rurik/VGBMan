@@ -1,0 +1,302 @@
+Adventure Island II(tm) Game
+006-DDB-E6E     Infinite lives
+000-6DB-E66     Start with 1 life
+050-6DB-E66     Start with 6 lives
+080-6DB-E66     Start with 9 lives
+00E-28F-E6E     No gradual loss of energy (i.e., no timer) but energy
+can still be drained by obstacles and enemies
+3C0-37B-5D4     Start with 1 of each power-up
+00D-51A-E6E     Once you collect any non-throwable object, you
+can't lose it from menu
+080-57B-E6E     Start on level 1-4
+Adventure Island II is a trademark of Hudson Soft USA, Inc.
+Avenging Spirit(tm) Game
+FA5-FAC-4C1 + FAE-C2D-4C1       Infinite E energy except if weapon
+is used against you
+FAE-B5D-4C1     Infinite L energy except against spikes
+053-2BC-B3A     Start with 1/4 energy
+0A3-2BC-B3A     Start with 1/2 energy
+0F3-2BC-B3A     Start with 3/4 energy
+*Ignore counter
+029-B9C-E6E     *Start on level 2
+049-B9C-E6E     *Start on level 4
+069-B9C-E6E     *Start on level 6
+Avenging Spirit is a trademark of Jaleco.
+Bubble Bobble Part 2(tm) Game
+AFE-33A-19E     Kill 1 enemy to go to next level
+FAB-CEE-4C1     Infinite hearts
+3E8-39F-081 + 138-3AF-D5E + 008-3BF-E6D Start on round 20
+3E8-39F-081 + 278-3AF-D5E + 008-3BF-E6D Start on round 40
+3E8-39F-081 + 3B8-3AF-D5E + 008-3BF-E6D Start on round 60
+015-5CE-E66     Start with 1 heart
+065-5CE-E66     Start with 6 hearts
+095-5CE-E66     Start with 9 hearts
+        C97-8AE-E66     No big bubbles appear
+FA5-58E-4C1 + FAB-46E-4C1 + FAB-63E-4C1 Run into 1 enemy
+and remain invincible for rest of game
+Bubble Bobble Part 2 is a trademark of Taito Corporation.
+Darkman(tm) Game
+63F-91C-91A     Start 1st life with mega-energy
+0AF-91C-91A     Start 1st life with 1/2 energy
+636-40D-91A     Start rest of lives with mega-energy
+002-4DF-E66     Start with 1 life
+072-4DF-E66     Start with 8 lives
+014-DDF-E69     Infinite lives
+005-97F-E6E     Infinite time
+909-ACA-E6B     Start with 9 minutes
+BA5-0FF-081     Infinite energy
+Darkman is a trademark of Universal City Studios, Inc.
+Goal(tm) Game
+633-ECB-5DE     Select time of up to 99 min. per half
+FF5-5AA-CDE + FF5-5BA-C46 + FF5-5CA-CBE Player 2 is
+fastest on the pitch
+00A-DAB-19A     No goals scored against you by computer
+009-EFE-E6E     Infinite timer
+225-5BA-C46     Some teammates have a mega-kick
+Goal is a trademark of Jaleco.
+Joe & Mac(tm) Game
+01A-81F-E66     Start with 1 life
+06A-81F-E66     Start with 6 lives
+09A-81F-E66     Start with 9 lives
+002-37D-E6E     Infinite lives
+FAB-E9C-4C1     Infinite energy
+3EA-89F-6E9 + 02A-8AF-7FD + E0A-8BF-2A9 Start on level 3
+3EA-89F-6E9 + 05A-8AF-7FD + E0A-8BF-2A9 Start on level 6
+3EA-89F-6E9 + 08A-8AF-7FD + E0A-8BF-2A9 Start on level 9
+AFB-E8C-A2C     Take one hit and lose life
+00B-D8C-3B7     No extra energy from pick-ups
+Joe & Mac is a trademark of Data East USA, Inc.
+Kid Dracula(tm) Game
+015-43F-E66     Start with 1 energy heart
+055-43F-E66     Start with 5 energy hearts
+005-4BF-E62     Start with 1 life
+045-4BF-E62     Start with 5 lives
+095-4BF-E62     Start with 10 lives
+FAB-F5A-4C1     Infinite lives
+030-CD8-E6E     Start on level 3
+050-CD8-E6E     Start on level 5
+008-13F-367     Walk thru enemies and still keep energy hearts
+Kid Dracula is a trademark of Konami Co., Ltd.
+The Legend of Zelda Link's Awakening(tm) Game
+FAO-999-4C1     Infinite energy
+09C-56B-E6E + 09C-74A-E6E       All items you get start at max
+power--when you get an item, you must have a space open (either A
+or B)
+054-EE9-E6E     Get 5 rupees for each single rupee
+324-EE9-E6E     Get 50 rupees for each single rupee
+FF4-EE9-E6E     Get 255 rupees for each single rupee
+FAF-BDA-4C1 + FAF-B2A-4C1       Infinite rupees (rupees aren't
+deducted for purchases you can afford)
+The Legend of Zelda Link's Awakening is a trademark of Nintendo of
+America Inc.
+
+Lethal Weapon(tm) Game
+1E9-CEE-E6B     Start with weapon energy on 1/2
+FA6-01E-4C1     Infinite weapon energy
+239-C3E-E6B     Start with life energy on 1/2
+FAA-1DD-4C1 + FAA-A5D-4C1       Infinite life energy--except
+falling down holes
+004-5BB-195     No enemies--can switch on/off
+Lethal Weapon is a trademark of Warner Bros., a Time Warner
+Entertainment Company.
+Mortal Kombat(tm) Game
+00C-B5E-3BE     Infinite time
+005-94C-B31     Player 1 is invincible
+109-C7C-E6F     Foot sweep does less damage
+FF9-C7C-E6F     Foot sweep does more damage
+010-14B-F72     1 continue
+050-14B-F72     5 continues
+0A0-14B-F72     10 continues
+002-96D-B31     Infinite continues
+109-AFC-6EE     Punches do less damage
+FF9-AFC-6EE     Punches do more damage
+109-BFC-E6F     Knees do less damage
+FF9-BFC-E6F     Knees do more damage
+109-A7C-E60     Uppercuts do less damage
+FF9-A7C-E60     Uppercuts do more damage
+109-CFC-E6F     Kicks to stomach do less damage
+FF9-CFC-E6F     Kicks to stomach do more damage
+109-B7C-6E3     Kicks to face do less damage
+FF9-B7C-6E3     Kicks to face do more damage
+10A-17C-E6F     Shoulder throws do less damage
+FFA-17C-E6F     Shoulder throws do more damage
+10A-07C-A2F     Sub-Zero(tm)'s slide does less damage
+FFA-07C-A2F     Sub-Zero's slide does more damage
+10A-27C-6EF     Sonya(tm)'s leg grab does less damage
+FFA-27C-6EF     Sonya's leg grab does more damage
+10A-1FC-6EF     Kano(tm)'s cannonball does less damage
+FFA-1FC-6EF     Kano's cannonball does more damage
+10A-5FC-7F5     Rayden(tm)'s lightning does less damage
+FFA-5FC-7F5     Rayden's lightning does more damage
+Mortal Kombat, Sub-Zero, Sonya, Kano and Rayden are trademarks of
+Midway Manufacturing Company.
+Mr. Do!(tm) Game
+015-B2E-E66     Start with 1 life
+065-B2E-E66     Start with 6 lives
+095-B2E-E66     Start with 9 lives
+FA7-28C-4C1     Infinite lives
+3E8-2CE-191 + 098-2DE-C42 + 188-2EE-6EA Keep 1 map layout thru
+game (still will progress from map to map, but layout stays the
+same)
+235-6AC-6E2 + 214-78D-4C1       Start new game from level you
+died on
+Mr. Do! is a trademark of Universal Co., Ltd.
+Nail 'N' Scale(tm) Game
+004-B5F-F7A     Start with 1 life
+084-B5F-F7A     Start with 9 lives
+00B-7EF-E65     Infinite lives
+Nail 'N' Scale is a trademark of Data East USA, Inc. and Imax Corp.
+NFL Football(tm) Game
+009-34A-E6E     No game timer
+AF1-EDE-E64     Computer can't score on its possessions
+01F-59F-F72     Touchdown worth 1 point
+05F-59F-F72     Touchdown worth 5 points
+08F-59F-F72     Touchdown worth 8 points
+NFL Football is a trademark of the National Football League.
+Pinball Dreams(tm) Game
+004-BAC-4CA + 004-BBC-B32       No tilt--shake the table as much
+as you want
+054-C7D-E62     Collect 2x bonus and get 6x bonus
+018-1BF-E66     Start with 1 ball
+048-1BF-E66     Start with 4 balls
+078-1BF-E66     Start with 7 balls
+098-1BF-E66     Start with 9 balls
+008-18F-3BA     Infinite balls
+Pinball Dreams is a trademark of Gametek, Inc.
+Pyramids Of Ra(tm) Game
+FA5-8EB-4C1     Energy bar doesn't go down when you make a move
+A2A-C48-6EC + 3CA-C68-19B + FAA-C38-4C1 Only 1 pt. of
+energy per move on first attempt at each level (instead of 3)
+        641-AB4-E6E + 001-ACF-E6A       Start on level 100
+2C1-ABF-E6E + 011-ACF-E6A       Start on level 300
+F41-ABF-E6E + 011-ACF-E6A       Start on level 500
+Pyramids Of Ra is a trademark of Matchbox International, Ltd.
+Raging Fighter(tm) Game
+009-1FB-A22     Infinite timer
+004-E0B-E6D + 007-1AE-3B7       Infinite energy
+3EE-5BD-4C1 + 03E-5CD-4CB + 00E-5DD-E61 Start on level 4--1-
+player tournament only
+3EE-5BD-4C1 + 07E-5CD-4CB + 00E-5DD-E61 Start on final level--
+1-player tournament only
+3E1-F2A-4CA + 041-F3A-E62 + 771-F4A-3BA Experts only--go
+to options, set difficulty--press Left 3 times (won't show anything),
+then exit--you'll go to 4th level difficulty
+10A-9AA-89C     Start each fight with 10 seconds
+50A-9AA-89C     Start with 1/2 time
+75A-9AA-89C     Start with 3/4 time
+Raging Fighter is a trademark of Konami, Inc.
+Solar Striker(tm) Game
+00C-D6F-3BE     Infinite lives
+015-D0F-E62     Start with 2 lives
+055-D0F-E62     Start with 6 lives
+095-D0F-E62     Start with 10 lives
+025-0AF-E6E     Start on stage 2
+035-0AF-E6E     Start on stage 3
+045-0AF-E6E     Start on stage 4
+055-0AF-E6E     Start on stage 5
+065-0AF-E6E     Start on stage 6
+3EF-65E-191 + 04F-66E-F7E       When you pick up a power-up, go
+straight to max power
+3EF-65E-191 + 0BF-66E-F7E       Bullets are mega-powerful,
+almost invisible, when you pick up a power-up
+006-45E-C41     No loss of power-ups on dying
+00D-EEF-3BA     Stay on same level
+Solar Striker is a trademark of Nintendo of America Inc.
+Spider-Man 3(tm) Game
+01E-3AD-B3A     Need to shoot 1 enemy to clear level 1-1
+723-ABD-195     Start 1st life with 1/2 energy
+728-18E-195     Start lives after 1st with 1/2 energy
+FA7-ECE-4C1     Infinite energy
+FA8-25E-4C1     Infinite lives
+FA7-6FB-4C1     Start 1st level with 1/2 time
+FFE-2DD-B30     Start 1st level with 255 seconds on timer
+Spider-Man 3 is a trademark of Marvel Entertainment Group, Inc.
+Spy vs Spy(tm) Game
+002-D2A-3BE     Infinite timer
+046-9EE-C42     Both spies start with 4 energy
+066-9EE-C42     Both spies start with 6 energy
+086-9EE-C42     Both spies start with 8 energy
+04D-84B-C42     After death, start with 4 energy--white spy
+08D-84B-B42     After death, start with full energy--white spy
+005-14B-3BE     No loss of energy during fight--both spies
+005-03B-80A     Other spy's punches do not affect your energy
+FA0-5CA-4C1     Walking over floor flowers doesn't affect your
+energy
+00A-76B-E62     Traps do not affect energy--white spy
+Spy vs Spy is a trademark of E.C. Publications, Inc.
+Star Wars(tm) Game
+C9B-5CC-3BE     Infinite energy
+00B-6AC-195     Infinite lives
+04C-12C-C4A     Start with 1/2 energy on all lives except 1st
+013-B7F-E66     Start with 1 life
+063-B7F-E66     Start with 6 lives
+093-B7F-E66     Start with 9 lives
+003-A2F-C42     No continues
+143-A2F-C42     20 continues
+FA2-F6E-4C1     Infinite continues
+990-B7E-C4A     More energy--1st life only
+Star Wars is a trademark of LucasArts Entertainment Company.
+Top Gun Guts & Glory(tm) Game
+FA4-249-4C1     Infinite missiles
+008-599-F79     Infinite lives
+CODES 3-5 WON'T WORK IF YOU ALTER MISSION ON 1ST MENU SCREEN
+01B-E4D-E66     Start with 1 life
+05B-E4D-E66     Start with 5 lives
+0AB-E4D-E66     Start with 10 lives
+004-859-4C1 + 3E4-869-80C + 0A4-879-F7D Start on mission
+10--ignore counter
+Top Gun Guts & Glory is a trademark of Paramount Pictures.
+Tumble Pop(tm) Game
+FA5-BCD-4C1     Infinite lives
+008-1CE-E66     Start with 1 life
+058-1CE-E66     Start with 6 lives
+088-1CE-E66     Start with 9 lives
+028-8AE-E66     Only have 2 min. to complete each screen
+058-8AE-E66     Only have 5 min. to complete each screen
+0A8-8AE-E66     Only have 10 min. to complete each screen
+058-17E-E6A     Start across river from original position
+FF8-17E-E6A     Start at island castle
+00E-68D-3BE     Hold enemies inside gun as long as you want
+Tumble Pop is a trademark of Data East USA, Inc.
+Ultima Runes Of Virtue(tm) Game
+FA5-F3F-4C1 + FA4-00C-4C1       Infinite energy
+FAB-5BF-4C1     Infinite money
+Shamino codes only--can't use with Journey Onward option:
+106-2B8-B3E     Start with dexterity of 10
+306-2B8-B3E     Start with dexterity of 30
+506-2B8-B3E     Start with dexterity of 50
+106-2C8-B3E     Start with strength of 10
+306-2C8-B3E     Start with strength of 30
+506-2CA-B3E     Start with strength of 50
+106-2F8-B3E     Start with IQ of 10
+306-2F8-B3E     Start with IQ of 30
+506-2F8-B3E     Start with IQ of 50
+155-658-2AA     Start with 15 coins
+405-658-2AA     Start with 40 coins
+605-658-2AA     Start with 60 coins
+FAC-0AF-4C1     No energy replacement
+Ultima Runes Of Virtue is a trademark of Origin Systems, Inc. and
+Richard Garriott.
+WordZap(tm) Game
+01B-C9E-F7A     Start with only 1 hint
+05B-C9E-F7A     Start with 5 hints
+09B-C9E-F7A     Start with 9 hints
+01B-CEE-E66     Start with 1 chance
+09B-CEE-E66     Start with 9 chances
+008-70F-3BE     Infinite hints
+WordZap is a trademark of Michael F.C. Crick.
+Zen Intergalactic Ninja(tm) Game
+01A-3ED-F7E     Instant staff power-up--just hold down B
+015-91F-E66     Start with only 1 life
+055-91F-E66     Start with 5 lives
+0A5-91F-E66     Start with 10 lives
+FA9-6DE-4C1     Infinite lives
+FA1-B1A-4C1     No energy loss against fire
+FAF-DAD-4C1     No energy loss against hang-on enemies
+FA3-36B-4C1 + FA2-A4B-4C1       Infinite energy aganst bullets and
+most enemies
+051-668-C42     Start lives with 1/2 energy
+071-668-C42     Start each life with 7 energy points
+Zen Intergalactic Ninja is a trademark of Zen Comics, Inc.
+
+

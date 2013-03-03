@@ -1,0 +1,290 @@
+Asteroids(tm) Game
+1       013-15F-E66     Start with 1 life
+2       053-15F-E66     Start with 5 lives
+3       093-15F-E66     Start with 9 lives
+4       003-83F-3BE     Infinite lives
+5       01C-B4D-F76 + 003-9CF-3BE       Rocks go thru you unless you
+move
+from the middle
+6       00A-7ED-3BA     No extra rocks as you go up levels
+Asteroids is a trademark of Atari Corporation.
+
+Avenging Spirit(tm) Game
+1       FA5-AFC-4C1 + FAE-C2D-4C1       Infinite energy except if
+weapon
+is used against you
+2       FAE-B5D-4C1     Infinite “L” energy except against
+spikes
+3       0A3-2BC-B3A     Start with 1/2 energy
+4       053-2BC-B3A     Start with 1/4 energy
+5       0F3-2BC-B3A     Start with 3/4 energy
+*=Counter still says level 1; use for practice only--after finishing
+level, you go back to level 2
+6       029-B9C-E6E     Start on level 2
+7       049-B9C-E6E     Start on level 4
+8       069-B9C-E6E     Start on level 6
+Avenging Spirit is a trademark of Jaleco.
+
+Bonk's Adventure(tm) Game
+1       005-13B-F7D     Infinite energy
+2       007-99D-D5D     Infinite lives
+*=Not on continue
+3       021-AFF-E66 + 001-B3F-5D4       *Start with 3 lives, 1st life
+as Mad Bonk(tm)
+4       021-AFF-E66 + 001-B3F-5D4       *Start 1st life as Turtle
+Bonk(tm)
+5       071-AFF-E66     *Start with 8 lives
+6       091-AFF-E66     *Start with 10 lives
+Bonk's Adventure, Mad Bonk and Turtle Bonk are trademarks of
+Hudson Soft USA, Inc.
+
+Dig Dug(tm) Game
+Dig Dug and New Dig Dug Codes:
+*=Display still shows 3
+1       06B-ACA-E66     *Start with 6 lives
+2       09B-ACA-E66     *Start with 9 lives
+3       02B-ACA-E66     *Start with 2 lives
+4       004-50C-3BE     When Pookas(tm) are partially
+inflated, they don't shrink
+5       046-D9C-E6E + 043-9ED-E6E + 047-8EB-E6E 1 pump
+kills monster instantly
+Dig Dug Codes Only:
+6       008-1BB-19E     Infinite lives
+*=Display still says level 1
+7       3EC-D9A-08A + 04C-DAA-E62       *Start on level 4
+8       3EC-D9A-08A + 02C-DAA-E62       *Start on level 2
+9       3EC-D9A-O8A + 09C-DAA-E62       *Start on level 9
+Dig Dug and Pookas are trademarks of Namco Ltd.
+
+Ferrari Grand Prix Challenge(tm) Game
+1       004-58C-19E     Don't lose speed when touching side
+of track in qualifying round or race--hitting sign will slow you down
+(if you accelerate fully, release A button and position car in middle
+of track, it will steer itself)
+2       000-22C-C49     When you crash with another car,
+your speed won't drop to 0
+3       00A-39B-E6E + 00A-1AB-E6E       No qualifying timer
+Ferrari Grand Prix Challenge is a trademark of Acclaim
+Entertainment, Inc.
+
+Heavyweight Championship Boxing(tm) Game
+1       00B-A4E-E6E     No ring timer
+2       AF6-E1B-19E     No round increase
+3       008-B2E-19E     Juggle your power--can alter
+power settings and give full
+power in all categories
+4       014-78F-E66     Start with punch, life and
+speed at 1
+5       024-78F-E66     Start with punch, life and
+speed at 2
+6       034-78F-E66     Start with punch, life and
+speed at 3
+7       044-78F-E66     Start with punch, life and
+speed at 4
+8       054-78F-E66     Start with punch, life and
+speed at 5
+9       064-78F-E66     Start with punch, life and
+speed at 6
+10      074-78F-E66     Start with punch, life and
+speed at 7
+11      084-78F-E66     Start with punch, life and
+speed at 8
+12      094-78F-E66     Start with punch, life and
+speed at 9
+13      994-78F-E66     Start with super power
+Heavyweight Championship Boxing is a trademark of Activision.
+
+Jeep Jamboree(tm) Game
+1       3EC-62E-E68 + 01C-63E-19A       Always finish in 1st place
+2       799-D49-19F + 799-D79-19B       Mega speed--stay at
+constant high speed even when off course and hitting rocks
+3       02B-F0A-E6E     Race 1 lap shorter
+4       03B-F0A-E6E     Race 2 laps shorter
+5       04B-F0A-E6E     Race 3 laps shorter
+Jeep Jamboree is a trademark of Chrysler Corporation.
+
+Kirby's Dream Land(tm) Game
+1       FA6-DBB-4C1     Infinite lives
+2       FA4-63B-4C1     Infinite vitality bars except
+against end-of-stage boss
+3       021-BBF-F7E     Start with 2 lives
+4       051-BBF-F7E     Start with 5 lives
+5       091-BBF-F7E     Start with 9 lives
+6       021-C0F-F72     Start with 2 vitality bars
+7       051-C0F-F72     Start with 5 vitality bars
+8       091-C0F-F72     Start with 9 vitality bars
+Kirby's Dream Land is a trademark of Nintendo of America Inc.
+
+Mega Man 3(tm) Game
+1       02B-17F-E66     Start with 2 lives
+2       06B-17F-E66     Start with 6 lives
+3       09B-17F-E66     Start with 9 lives
+4       00C-099-3B7     Infinite energy
+5       009-77C-E6E     Laser barriers appear and
+explode immediately on
+Sparkman(tm) stage
+6       019-53C-F76     Takes 1 hit to kill Merciless
+Matt(tm)
+7       0F9-53C-F76     Takes 15 hits to kill Merciless
+Matt
+Mega Man 3, Sparkman and Merciless Matt are trademarks of Capcom
+USA.
+
+Milon's Secret Castle(tm) Game
+1       036-EA8-F7E     Start with 3 energy bars
+2       066-EA8-F7E     Start with 6 energy bars
+3       096-EA8-F7E     Start with 9 energy bars
+4       FAD-368-4C1     Protection against most
+hazards
+5       FA7-8F9-4C1     Infinite money on pick-up
+6       3E7-138-081 + 627-148-DC5 + 007-158-915 Each $ box
+is worth 99
+7       FAC-FD8-4C1 + 3CC-A8A-5D4       Start with and keep
+double shot and shield
+Milon's Secret Castle is a trademark of Hudson Soft USA, Inc.
+
+Prophecy Viking Child(tm) Game
+1       034-A0F-E6E     Start with 4 lives
+2       064-A0F-E6E     Start with 7 lives
+3       094-A0F-E6E     Start with 10 lives
+4       FAE-04C-4C1     Infinite lives
+5       FAD-F5C-4C1     Infinite energy
+6       00D-9BD-19B     Each coin gives lots of money
+7       194-A5F-667     Start with 25 energy--1st life
+8       324-A5F-667     Start with 50 energy--1st life
+Prophecy Viking Child is a trademark of Imagitec Design.
+
+Ren and Stimpy Show Space Cadet Adventures(tm)
+1       01D-2EA-E62     Start with 2 life
+2       05D-2EA-E62     Start with 6 lives
+3       08D-2EA-E62     Start with 9 lives
+4       F07-54E-6E9     Infinite lives
+*=1st life only
+5       04D-32A-E66     *Start with 5 energy
+6       05D-32A-E66     *Start with 6 energy
+7       06D-32A-E66     *Start with 7 energy
+8       F07-33E-6E9     Infinite energy--except when you fall
+into pits
+*=Don't use together with first 3 lives codes
+9       047-5CE-E66     Start with 4 energy--after 1st life
+10      057-5CE-E66     Start with 5 energy--after 1st life
+11      067-5CE-E66     Start with 6 energy--after 1st life
+The Ren and Stimpy Show Space Cadet Adventures is a trademark of
+Nickelodeon.
+
+Speedball 2(tm) Game
+1       99D-CDB-F7A     Get lots of money
+2       FAA-E4C-4C1     Infinite money
+3       00E-D99-3BE     No timer
+4       00C-30F-08B     Opponents can't score any points except from
+bounced stones; when they score a goal it is an earned goal
+regardless of what end they score at
+Speedball 2 is a trademark of The Bitmap Brothers.
+
+Spiderman 2(tm) Game
+1       FA6-FBE-4C1     Infinite lives
+2       00F-78E-E66     Start with 1 life
+3       04F-78E-E66     Start with 5 lives
+4       09F-78E-E66     Start with 10 lives
+5       FA6-C4E-4C1     Infinite energy
+6       01F-5BE-195     Start with 1 energy point
+9       016-EEE-195     1 energy point after life lost
+10      FAD-F6E-4C1     Infinite web power
+*=1st life only
+11      04F-73E-B3A     *Start with 4 web points
+12      05F-73E-B3A     *Start with 5 web points
+13      09F-73E-B3A     *Start with 9 web points
+Spiderman 2 is a trademark of Marvel Entertainment Group, Inc.
+
+Star Hawk(tm) Game
+1       FAA-2CF-4C1     Infinite lives
+2       008-C0F-19E     Inpenetrable shield
+3       006-92F-F7D     Infinite continues
+4       FAF-15F-4C1     Keep power-ups when you die
+5       081-C1F-E66     Start with 8 lives
+6       0A1-C1F-E66     Start with 10 lives
+7       0C1-C1F-E66     Start with 12 lives
+
+Sumo Fighter(tm) Game
+1       02B-AFA-E66     Start with 2 energy bars
+2       05B-AFA-E66     Start with 5 energy bars
+3       08B-AFA-E66     Start with 8 energy bars
+4       FAE-C8A-4C1     Infinite energy
+*=Not on continue
+5       012-0BF-E62     *Start with 2 lives
+6       042-0BF-E62     *Start with 5 lives
+7       072-0BF-E62     *Start with 8 lives
+8       092-06F-F7E     When screen comes up asking
+easy or hard level, press
+'Down” 3x and press 'A'. You
+can now play super hard mode
+right away (makes display look
+weird)
+Sumo Fighter is a trademark of DTMC Inc.
+
+Tecmo Bowl(tm) Game
+Counter only shows up to 4 downs.
+1       494-D6B-F7A     Have 49 downs
+2       054-D6B-F7A     Have 5 downs
+3       084-EFB-E6E     8 min. 30 sec. per quarter
+4       064-EFB-E6E     6 min. 30 sec. per quarter
+5       014-EFB-E6E     1 min. 30 sec. per quarter
+6       00D-C9A-3BE     Infinite time
+Tecmo Bowl is a trademark of Tecmo, Inc.
+
+Tennis Game
+1       001-DAD-3BA     Neither player scores points--
+switch off to score
+2       010-9CD-F76     1 game needed to win set
+3       020-9CD-F76     2 games needed to win set
+4       030-9CD-F76     3 games needed to win set
+5       040-9CD-F76     4 games needed to win set
+6       011-9AD-E66     1st point takes you to 40
+points
+7       021-9AD-E66     2nd point takes you to 40
+points
+8       000-99D-3BA + E00-74D-6E5 + E00-7ED-6E5 Neither
+player can win game
+
+Tom & Jerry(tm) Game
+*=Not on continue
+1       01F-7BB-E66     *Start with 1 life
+2       05F-7BB-E66     *Start with 5 lives
+3       008-54D-B3D     Infinite lives
+4       FAC-3FE-4C1 + FAC-43E-4C1       Infinite time
+5       FA6-84B-4C1     Infinite balls once collected
+6       00D-47D-3BA     Infinite energy (may have to die once
+first)
+7       110-67B-E6E     Every time you collect one cheese
+you get 11 (can't go over 100)
+Tom & Jerry is a trademark of Turner Entertainment Co.
+
+Universal Soldier(tm) Game
+1       00A-5AF-3BE     Infinite time
+2       055-D1E-E66     Start with 5 lives
+3       075-D1E-E66     Start with 7 lives
+4       095-D1E-E66     Start with 9 lives
+5       C93-EEF-E69     Infinite lives
+6       056-ACE-E66     Start with 5 power lines
+7       076-ACE-E66     Start with 7 power lines
+8       096-ACE-E66     Start with 9 power lines
+9       008-7AC-3BE     Infinite energy
+10      00C-50E-3BA + 00C-4BE-3BE       Fewer enemies on each
+level
+Universal Soldier is a trademark of Carolco.
+
+Yoshi(tm) Game
+1       003-BBE-193     At random intervals, 1 block
+comes down instead of 2
+2       3EC-70D-081 + 06C-71D-2AC + 22C-72D-F71 When setup
+screen appears, go to level
+select, push right once to start
+on level 6
+3       3EC-70D-081 + 08C-71D-2AC + 22C-72D-F71 When setup
+screen appears, go to level
+select, push right once to start
+on level 8
+4       00C-71B-3BA     No timer for game B
+Yoshi is a trademark of Nintendo of America Inc.
+
+

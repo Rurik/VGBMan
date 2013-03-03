@@ -1,0 +1,35 @@
+Please take note: Because of the way SML 2 uses battery backup
+RAM, this cart will not work on some Game Genie/Game Boy
+combinations. There is nothing we can do about this. If you think you
+will not enjoy the experience of trying the codes and finding that
+they do not work, then please do not try. (One thing that sometimes
+helps is installing fresh batteries or using an adequate power
+supply.)
+
+SUPER MARIO LAND 2: 6 GOLDEN COINS(TM) GAME
+1       023-218-E6E     Each defeated enemy worth 2
+2       053-218-E6E     Each defeated enemy worth 5
+3       00D-8DA-E6E     Stop timer
+4       02D-8DA-E6E     Timer counts down by 2
+5       002-41B-F7E     Start new game with 1 life instead of 6
+6       092-41B-F7E     Start new game with 10 lives instead of 6
+7       242-41B-F7E     Start new game with 25 lives instead of 6
+8       492-41B-F7E     Start new game with 50 lives instead of 6
+9       742-41B-F7E     Start new game with 75 lives instead of 6
+10      992-41B-F7E     Start new game with 100 lives instead of 6
+11      001-40C-E6E     Infinite lives
+12      024-5BC-E6E     Mushroom turns you into Bunny Mario(tm)
+13      034-5BC-E6E     Mushroom turns you into Fire Mario(tm)
+14      FA1-B9C-4C1     Stay as Super Mario(tm) when hit
+15      FA1-C8C-4C1     Stay as Fire or Bunny Mario when hit
+16      01D-92E-E6A + 019-2BA-E6A       Each coin worth 101
+17      009-22A-19A + 00D-89E-19A       Each coin worth 0
+18      004-BBC-19A     Hearts (extra life) worth nothing
+19      004-5F8-2AA     Play 30 coin game of chance for free
+20      004-288-A2B     Play 50 coin game of chance for free
+21      003-F28-E62     Play 200 coin game of chance for free
+22      003-BB8-C4E + 003-BA8-80C       Play 999 coin game of chance for free
+Super Mario Land 2: 6 Golden Coins, Bunny Mario, Fire Mario and Super Mario are
+ trademarks of Nintendo of America Inc.
+
+

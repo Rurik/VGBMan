@@ -1,0 +1,41 @@
+WARIO LAND(tm) SUPER MARIO LAND 3(tm) GAME
+
+Please take note: Because of the way Wario Land uses battery backup
+RAM, this cart will not work on some Game Genie/Game Boy
+combinations. There is nothing we can do about this. If you think you
+will not enjoy the experience of trying the codes and finding that
+they do not work, then please do not try. (One thing that sometimes
+helps is installing fresh batteries or using an adequate power
+supply.)
+
+ENTER CODES, PRESS START, GO INTO ÒCLEARÓ PIPE ON RIGHT SIDE,
+MOVE BOMB TO DESIRED PIPE, PUSH DOWN, THEN GO DOWN THAT PIPE
+AS WARIO(tm)
+
+1       10B 7D8 F7E     Start with 10 lives
+2       25B 7D8 F7E     Start with 25 lives
+3       50B 7D8 F7E     Start with 50 lives
+4       99B 7D8 F7E     Start with 99 lives
+5       00B 7E8 E6E     Start as Small Wario(tm)
+6       02B 7E8 E6E     Start as Bull Wario(tm)
+7       03B 7E8 E6E     Start as Jet Wario(tm)
+8       04B 7E8 E6E     Start as Dragon Wario(tm)
+9       FAD 63F 4C1     Don't lose current power-up when you get hit
+or get a new power-up (switchable)
+10      10B 7C8 E6A     Start with 10 hearts
+11      25B 7C8 E6A     Start with 25 hearts
+12      50B 7C8 E6A     Start with 50 hearts
+13      99B 7C8 E6A     Start with 99 hearts
+14      10B 7B8 E6A     Start with 10 coins
+15      25B 7B8 E6A     Start with 25 coins
+16      50B 7B8 E6A     Start with 50 coins
+17      99B 7B8 E6A     Start with 99 coins
+18      01B 7F8 E6A     Start on course 26
+19      103 E4F E6E     Get 10 hearts for killing an enemy
+20      253 E4F E6E     Get 25 hearts for killing an enemy
+21      503 E4F E6E     Get 50 hearts for killing an enemy
+22      993 E4F E6E     Get 99 hearts for killing an enemy
+23      003 AAB E62 +C96 C0C 4C1        Most enemies and obstacles are
+invisible
+Wario Land, Super Mario Land 3, Wario, Small Wario, Bull Wario, Jet
+Wario and Dragon Wario are trademarks of Nintendo of America Inc.

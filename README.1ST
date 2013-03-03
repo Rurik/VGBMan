@@ -1,0 +1,27 @@
+   I mainly gave up on this project after being thrown around like
+ a degenerate in #emu, a channel that I supported and protected
+ since the day it was created.  I never did finish the revision I
+ was doing on it, which included color schemes, etc...  I can not
+ guarantee no bugs, just work with it if you want.  If you get it
+ completed and in good shape, all I ask if that you send me the
+ executable and whatever docs you added, over email.  Although I'm
+ trying to put it behind me, you may occassionaly see me lurking in
+ #emu as Masochist or Rurik.  Any comments, questions (I will no
+ longer give technical support), or just want to bitch you can
+ reach me the following ways:
+   email beb@waterw.com
+   look on irc for Masochist or Rurik
+   mud irc.aohell.org:9000 as either of the two previous names
+
+  Extra notes: Ovrumb is a shareware unit, it, when accompanied
+    by linker.pas, and a bit of un-commenting can turn the .exe
+    into using an overlay.
+  I took every file as is from my directories, nothing has changed.
+    You may do with them as you wish.  If you compile, and
+    distribute a new .exe, you must send me a copy.
+
+  Greets: MindRape - Hope you get that whole BIOS thing working,
+    let alone start it :>
+    MadHatter, Ryououki, Lepper.
+
+     - October 19, 1996
